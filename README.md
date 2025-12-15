@@ -1,6 +1,4 @@
-# WATER_GAS_SHIFT_RXN
-complete analysis on wgsr rxn , carbon monooxide conversion
-Below is a **clean, professional, and GitHub-ready `README.md`** tailored specifically to your **Water Gas Shift Reaction simulation using DWSIM**. It is suitable for academic review, recruiters, and open-source visibility.
+
 ![Water Gas Shift Reaction](<img width="330" height="153" alt="image" src="https://github.com/user-attachments/assets/2e40c3fd-61f9-4118-bf5a-76462d3094f1" />
 )
 
